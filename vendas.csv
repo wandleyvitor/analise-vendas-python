@@ -1,0 +1,11 @@
+data,produto,categoria,quantidade,preco_unitario,regiao
+2024-01-05,Notebook,Eletrônicos,2,3500,Sudeste
+2024-01-10,Mouse,Eletrônicos,10,80,Sul
+2024-01-12,Cadeira,Escritório,3,900,Sudeste
+2024-02-02,Teclado,Eletrônicos,5,150,Nordeste
+2024-02-10,Mesa,Escritório,2,1200,Sul
+2024-03-01,Monitor,Eletrônicos,4,1100,Sudeste
+2024-03-05,Caderno,Papelaria,20,25,Nordeste
+2024-03-15,Caneta,Papelaria,50,5,Sul
+2024-04-01,Impressora,Eletrônicos,1,1800,Sudeste
+2024-04-10,Armário,Escritório,1,2500,Nordeste
